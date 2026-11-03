@@ -12,7 +12,7 @@ mon premier depot pour le module digital
 
 date:\[03/11/2026]
 
-\##objectif
+\##objectf
 
 &#x20;apprendre a utuliser git et une plateforme collaborative
 
