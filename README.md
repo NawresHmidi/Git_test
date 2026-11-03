@@ -1,20 +1,34 @@
-# Git\_test
+# \# Git\\\_test
 
-\#premier-depot
+# 
 
-mon premier depot pour le module digital
+# \\#premier-depot
 
-\## Auteur
+# 
 
-\-Nom :nawres hmidi
+# mon premier depot pour le module digital
 
-\-Groupe:\[b2]
+# 
 
-date:\[03/11/2026]
+# \\## Auteur
 
-\##objectf
+# 
 
-&#x20;apprendre a utuliser git et une plateforme collaborative
+# \\-Nom :nawres hmidi
+
+# 
+
+# \\-Groupe:\\\[b2]
 
 
+
+# date:\\\[03/11/2026]
+
+# 
+
+# \\##objectf
+
+# 
+
+# \&#x20;apprendre a utuliser git et une plateforme collaborative
 
